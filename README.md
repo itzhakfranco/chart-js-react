@@ -5,7 +5,7 @@
 
 ##### Node/Express - Server
 
-| Class         | Method                  | Property                | Explantaion             |
+| Class         | Method                  | Property                | Explanation             |
 | ------------- | ----------------------- | ----------------------- | ----------------------- |
 | ElectionModel | getElectedPartiesCount  |                         | used by the ChartController to get the count<br> of elected parties |
 |               | getElectionDates        |                         | used by the ChartController to get election<br> dates as an array |
